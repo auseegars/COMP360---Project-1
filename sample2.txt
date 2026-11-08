@@ -1,0 +1,3 @@
+float test2 (float t) {
+p = m * c;
+}

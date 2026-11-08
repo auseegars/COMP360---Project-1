@@ -1,0 +1,5 @@
+float calculate (float x) {
+float y;
+float result;
+result = x * y / x;
+}

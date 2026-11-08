@@ -1,0 +1,6 @@
+float prog (float k){
+float l;
+float a;
+float test;
+test = k / l * a;
+}
